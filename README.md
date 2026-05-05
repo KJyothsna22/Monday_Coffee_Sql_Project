@@ -57,8 +57,8 @@ After analyzing the data, the recommended top three cities for new store opening
 3. Average sales per customer is better at 11.6k.
 
 **City 4: Chennai**
-1. Average sales per customer is high.
+1. Average sales per customer is better at 22.4k.
 2. Average rent per customer is low at 407.
-3. Total revenue is also high.
+3. Total revenue is also high at 94.4k
   
 ---
