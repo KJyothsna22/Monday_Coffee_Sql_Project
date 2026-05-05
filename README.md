@@ -3,7 +3,7 @@
 <img width="1672" height="941" alt="ChatGPT Image May 5, 2026, 11_01_43 AM" src="https://github.com/user-attachments/assets/fe5ebf32-b472-4b3d-aef3-de7382a366ce" />
 
 
-Objective
+## Objective
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top four major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
 ## Key Questions
@@ -56,9 +56,9 @@ After analyzing the data, the recommended top three cities for new store opening
 2. Average rent per customer is very low at 156.  
 3. Average sales per customer is better at 11.6k.
 
-City 4: Chennai
-1.Average sales per customer is high.
-2.Average rent per customer is low at 407.
-3.Total revenue is also high.
+**City 4: Chennai**
+1. Average sales per customer is high.
+2. Average rent per customer is low at 407.
+3. Total revenue is also high.
   
 ---
